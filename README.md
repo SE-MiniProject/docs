@@ -42,23 +42,22 @@ Submit assignments
 **Parts of the system**
 
 Student Record System
-├── Login
-├── Admin
-│   ├── Students
-│   ├── Teachers
-│   ├── Classes
-│   └── Subjects
-├── Teacher
-│   ├── Attendance
-│   ├── Grades
-│   └── Assignments
-├── Student
-│   ├── Attendance
-│   ├── Grades
-│   ├── Assignments
-│   └── Submit Assignment
-└── Database
-Keeping data safe
+ Login
+ Admin(
+   Students
+   Teachers
+   Classes
+   Subjects)
+ Teacher)
+    Attendance
+    Grades
+    Assignments)
+ Student(
+    Attendance
+    Grades
+    Assignments
+    Submit Assignment)
+ Database
 
 
 ## Project Management
