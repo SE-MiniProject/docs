@@ -48,7 +48,7 @@ Student Record System
    Teachers
    Classes
    Subjects)
- Teacher)
+ Teacher(
     Attendance
     Grades
     Assignments)
